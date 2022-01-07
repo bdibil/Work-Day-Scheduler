@@ -18,7 +18,7 @@
 
 ## Link to the live site
 
- https://bdibil.github.io/Code-Quiz/
+ https://bdibil.github.io/Work-Day-Scheduler/
   
 
 ## Screenshot
