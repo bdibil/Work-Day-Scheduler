@@ -6,7 +6,7 @@
 -	It features dynamically updated HTML and CSS powered by jQuery.
 
 
-## EDIT BELOW
+## NEED TO  EDIT BELOW
 
 -	A timer starts and the questions begin as soon as the user clicks the start button 
 -	Questions will continue to appear if there is time left and the user answers correctly 
