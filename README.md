@@ -5,7 +5,7 @@
   
 -	It features dynamically updated HTML and CSS powered by JavaScript and jQuery
 -	Each timeblock is color coded to indicate whether it is in the past (grey), present (red), or future (green)
--	When the save button for that timeblock is clicked, the text for that event is NOT saved in local storage (Work in progress)
+-	When the save button for that timeblock is clicked, the text for that event is saved in local storage 
 
 
 ## Link to the live site
